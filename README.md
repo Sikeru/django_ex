@@ -1,7 +1,1 @@
-echo "# django_ex" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Sikeru/django_ex.git
-git push -u origin main
+이 저장소는 장고프로젝트 연습용입니다.
